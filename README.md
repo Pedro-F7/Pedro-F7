@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro! 👋
 
-Desenvolvedor Full Stack em constante evolução, focado em criar aplicações modernas, funcionais e bem estruturadas. Gosto de resolver problemas reais através do código e estou sempre explorando novas formas de otimizar o desenvolvimento.
+Desenvolvedor Backend em constante evolução, focado em criar aplicações modernas, funcionais e bem estruturadas. Gosto de resolver problemas reais através do código e estou sempre explorando novas formas de otimizar o desenvolvimento.
 
 ---
 
