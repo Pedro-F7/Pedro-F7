@@ -2,7 +2,6 @@
 
 Desenvolvedor backend em formação, focado em **Java e Spring Boot**.
 
-Aprendo construindo: cada projeto nasceu de um problema real que eu quis entender a fundo.
 
 ---
 
